@@ -1,13 +1,3 @@
-## Running React on Repl.it
+## rekt Name Service
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
-
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+This is the frontend for a buildspace project to allow a user to mint an NFT on Polygon that is tied to a ".rekt" domain name, and set a related record for that domain. This repo is the smart contract and the frontend is in a separate repo.
